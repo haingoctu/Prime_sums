@@ -7,14 +7,17 @@ Input
 The first line of the input file contains a single positive integer, t (t ≤ 20000), representing the number of test cases. The following t lines contain one positive integer n (n ≤ 10000), representing the prime sum to be computed for the case.
 Output
 Write out a single integer on a line by itself for each test case, indicating P(n), for the corresponding input value n.
+
+
+Sample Inpu
 --------
-Sample Input
 3
 1
 6
 8
----------
+
 Sample Output
+-----------
 2
 41
 77
